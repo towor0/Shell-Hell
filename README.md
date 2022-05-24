@@ -5,6 +5,9 @@ Top down view tank game.
 Python 3.10<br />
 Pygame 2.1
 
+# How to Run
+shell hell.py
+
 # Controls
 W - Up<br />
 A - Turn Left<br />
